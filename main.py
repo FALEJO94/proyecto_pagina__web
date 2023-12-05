@@ -1,8 +1,9 @@
 import streamlit as st
+
  
 st.title("Hola")
 
-st.header("N.N")
+st.header("N.N.n.n")
 st.header("Este es una app Streamlist")
 st.subheader("Subheader")
 st.text("Texto")
